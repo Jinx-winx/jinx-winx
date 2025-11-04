@@ -1,4 +1,4 @@
-### Hi there 👋. This is Tharakesh. I am physics graduate working in the domain of theoretical Physics. In this Github page, I would like to upload my project and connect to my peers
+### Hi there 👋. This is Tharakesh. I am physics graduate working in the domain of theoretical Physics. In this Github page, I would like to upload my project and connect to my peers. These are some random works of mine whilst trying to learn html
 
 <!--
 **Jinx-winx/jinx-winx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
