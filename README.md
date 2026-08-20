@@ -1,4 +1,5 @@
-### Hi there 👋. This is Tharakesh. I am physics graduate working in the domain of theoretical Physics. In this Github page, I would like to upload my project and connect to my peers. 
+### Hi there 👋. This is Tharakesh. I am physics graduate working in the domain of Theoretical Physics. I actively work on Quantum Theory in Physics from a theoretical Perspective studying concepts like QFT, Entanglement, High energy theory and relativstic effects of QI theory. In this Github page, I aim to upload my works and connect to my peers.
+
 
 <!--
 **Jinx-winx/jinx-winx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
